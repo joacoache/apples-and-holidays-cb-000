@@ -80,7 +80,7 @@ def all_holidays_with_bbq(holiday_hash)
       if d.include? "BBQ"
         array << c
       end
-    ebd
+    end
   end
   array
 end
